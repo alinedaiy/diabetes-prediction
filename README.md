@@ -101,13 +101,6 @@ Install them with:
 
        jupyter notebook diabetes_knn.ipynb
 
-## Future Work
-
-- Compare KNN with other classifiers such as Logistic Regression, Random Forest, and XGBoost
-- Apply cross-validation for more robust hyperparameter tuning
-- Explore feature engineering to improve recall on the Diabetic class
-- Deploy the model as a web application using Streamlit
-
 ## Author
 
 Ali Nedaiy  
